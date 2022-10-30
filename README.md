@@ -1,2 +1,2 @@
-# obsidianImage
-save obsidian image
+# noteImage
+save note image
